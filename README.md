@@ -12,7 +12,7 @@ API Docs - http://localhost:8080/v3/api-docs
 
 Service Info - http://localhost:8080/actuator/info
 
-http://localhost:8080/actuator/health
+Service Health - http://localhost:8080/actuator/health
 
 #### Endpoint Details:
 
