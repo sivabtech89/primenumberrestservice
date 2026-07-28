@@ -1,4 +1,4 @@
-# integrationtest restservice guide
+# primenumber restservice guide
 
 This RESTful service calculates and returns all the prime numbers up to and including a number provided using spring boot.
 
@@ -27,4 +27,4 @@ This service expose a GET endpoint /primes/{number} and will return a JSON conte
 * Commons collections4 - 4.5.0
 * JaCoCo Maven - 0.8.11
 
-Junit Code Coverage Evidence:
+**Junit & Karate Integration Test Evidence can be found under testevidences folder**
